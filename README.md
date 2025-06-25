@@ -136,7 +136,7 @@ Only **YOLO11n** and **YOLO11s** meet the real-time latency target (<33ms), with
 
 Red = Ground Truth Collision  
 Blue = Predicted Collision  
-Green = Misclassified
+Green = Correct classified
 
 ---
 
